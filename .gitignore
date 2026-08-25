@@ -1,0 +1,11 @@
+# Von den Admin-Launchern lokal erzeugte Release-Pakete
+*.zip
+
+# Temporäre Dateien
+*.tmp
+*.bak
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
