@@ -1,0 +1,26 @@
+{
+  "formatVersion": 1,
+  "packId": "mstorage-atm9",
+  "version": "0.1.0",
+  "releasedAt": "2026-08-25T22:33:10.6691078+00:00",
+  "packageUrl": "https://github.com/Scholly0988/Minecraft_Launcher/releases/download/atm9-v0.1.0/mstorage-atm9-0.1.0.zip",
+  "packageSha256": "c5a53f392dd7796ddd48c355436952f6f0b3e91feb49a6291c3ed88c11cb1e52",
+  "changelog": [
+    "Neue Modversion"
+  ],
+  "files": [
+    {
+      "path": "mods/mstorage-0.2.5.jar",
+      "sha256": "fcfde31eeeac727b01e2f9aa0524a5abbdfafcdfc9fe9a0f6a0f47956d44a4e9",
+      "size": 162645
+    },
+    {
+      "path": "mods/tleveling-legacy-1.1.1-1.20.1.jar",
+      "sha256": "c71f73ee24680c9ebd4dcfbbef12d6e871cdf22868e99e630b5cc1e7be5c0668",
+      "size": 112185
+    }
+  ],
+  "remove": [
+    "mods/mstorage-0.1.0.jar"
+  ]
+}
