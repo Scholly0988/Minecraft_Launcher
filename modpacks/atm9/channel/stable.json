@@ -1,9 +1,9 @@
 {
   "formatVersion": 1,
   "packId": "mstorage-atm9",
-  "version": "0.3.0",
-  "releasedAt": "2026-08-27T08:31:22.2580378+00:00",
-  "packageUrl": "https://github.com/Scholly0988/Minecraft_Launcher/releases/download/atm9-v0.3.0/mstorage-atm9-0.3.0.zip",
+  "version": "0.4.0",
+  "releasedAt": "2026-08-27T08:32:43.1176091+00:00",
+  "packageUrl": "https://github.com/Scholly0988/Minecraft_Launcher/releases/download/atm9-v0.4.0/mstorage-atm9-0.4.0.zip",
   "packageSha256": "e3a76aa581cf3e2aef407478a37d4302277c2b722cf8da070ee1ab9e91aabfbc",
   "changelog": [
     "- worldedit hinzugef\u00FCgt.",
