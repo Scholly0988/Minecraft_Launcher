@@ -9,4 +9,6 @@ Die vollständigen Modpacks und fremde Mod-Dateien werden hier nicht weiterverte
 
 Der maschinenlesbare Modpack-Katalog liegt in [`catalog.json`](catalog.json). Der Nutzer-Launcher lädt diese Datei und ordnet darüber Kürzel, Suchnamen und Stable-Manifeste automatisch zu.
 
+- [Scholly's RPG Mod – RPG1](modpacks/rpg/README.md)
+
 Jedes Modpack besitzt einen eigenen Stable-Kanal. Release-ZIPs werden als GitHub-Release-Assets hochgeladen und nicht direkt in Git gespeichert.

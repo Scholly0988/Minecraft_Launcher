@@ -14,6 +14,18 @@
       "requiredModHints": [
         "allthemodium"
       ]
+    },
+    {
+      "id": "rpg",
+      "abbreviation": "RPG1",
+      "name": "Scholly\u0027s RPG Mod",
+      "manifestPath": "modpacks/rpg/channel/stable.json",
+      "searchNames": [
+        "RPG",
+        "Scholly\u0027s RPG Mod",
+        "RPG1"
+      ],
+      "requiredModHints": []
     }
   ]
 }
