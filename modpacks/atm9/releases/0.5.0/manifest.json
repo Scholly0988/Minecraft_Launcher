@@ -2,9 +2,9 @@
   "formatVersion": 1,
   "packId": "mstorage-atm9",
   "version": "0.5.0",
-  "releasedAt": "2026-08-27T16:56:27.8424821+00:00",
+  "releasedAt": "2026-08-27T17:19:10.0225882+00:00",
   "packageUrl": "https://github.com/Scholly0988/Minecraft_Launcher/releases/download/atm9-v0.5.0/mstorage-atm9-0.5.0.zip",
-  "packageSha256": "e0ede6781a343adde8714e5b7f0b12fc57a152e058391fc32507941beaf0e04a",
+  "packageSha256": "4fb31b3bf86fac0a4985b4f1188cc526e46644e06074f5aca0f965a7bdcfb691",
   "changelog": [
     "- tleveling update",
     "-Erzadern werden jetzt komplett erkannt und werden abgebaut",
@@ -15,18 +15,19 @@
   ],
   "files": [
     {
-      "path": "mods/mstorage-0.5.1.jar",
-      "sha256": "94c8bf7187ed34d90edec42fdc6a25c46a2d73aa9167c810a1deb7ce2fcae530",
-      "size": 229984
-    },
-    {
       "path": "mods/tleveling-1.3.1-1.20.1.jar",
       "sha256": "7376ec8481cbf91c7af599aa11f7d394b0bd87847f3aff73281bd55bd6154810",
       "size": 124352
+    },
+    {
+      "path": "mods/mstorage-0.5.2.jar",
+      "sha256": "5d013989dd8956ff894c952c590d2637930bd6c88cb8de0c49fa928f96347819",
+      "size": 230615
     }
   ],
   "remove": [
     "mods/tleveling-legacy-1.3.0-1.20.1.jar",
-    "mods/mstorage-0.2.7.jar"
+    "mods/mstorage-0.2.7.jar",
+    "mods/mstorage-0.5.1.jar"
   ]
 }
