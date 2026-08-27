@@ -7,4 +7,6 @@ Die vollständigen Modpacks und fremde Mod-Dateien werden hier nicht weiterverte
 
 - [All the Mods 9 – ATM9](modpacks/atm9/README.md)
 
+Der maschinenlesbare Modpack-Katalog liegt in [`catalog.json`](catalog.json). Der Nutzer-Launcher lädt diese Datei und ordnet darüber Kürzel, Suchnamen und Stable-Manifeste automatisch zu.
+
 Jedes Modpack besitzt einen eigenen Stable-Kanal. Release-ZIPs werden als GitHub-Release-Assets hochgeladen und nicht direkt in Git gespeichert.

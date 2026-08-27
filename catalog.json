@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "modpacks": [
+    {
+      "id": "atm9",
+      "abbreviation": "ATM9",
+      "name": "All the Mods 9",
+      "manifestPath": "modpacks/atm9/channel/stable.json",
+      "searchNames": [
+        "All the Mods 9",
+        "All the Mods 9 - ATM9",
+        "ATM9"
+      ],
+      "requiredModHints": [
+        "allthemodium"
+      ]
+    }
+  ]
+}
