@@ -2,9 +2,9 @@
   "formatVersion": 1,
   "packId": "mstorage-atm9",
   "version": "0.3.0",
-  "releasedAt": "2026-08-27T01:53:03.1144845+00:00",
+  "releasedAt": "2026-08-27T08:30:14.2869348+00:00",
   "packageUrl": "https://github.com/Scholly0988/Minecraft_Launcher/releases/download/atm9-v0.3.0/mstorage-atm9-0.3.0.zip",
-  "packageSha256": "19674a6b41ea2d93aa898552cb0d83fd5a14263035e0d214e34d5ffa84c45f1e",
+  "packageSha256": "e3a76aa581cf3e2aef407478a37d4302277c2b722cf8da070ee1ab9e91aabfbc",
   "changelog": [
     "- worldedit hinzugef\u00FCgt.",
     "-Worldedit CUI hinzugef\u00FCgt.",
@@ -26,6 +26,11 @@
       "path": "mods/worldedit-mod-7.2.15.jar",
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
       "size": 5825402
+    },
+    {
+      "path": "mods/mstorage-0.2.6.jar",
+      "sha256": "b832ca4567b42ea7910c911b3de1c731273f9a939985bca570a8c763caabd409",
+      "size": 166391
     }
   ],
   "remove": [
